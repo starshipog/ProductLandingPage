@@ -1,0 +1,63 @@
+body {
+    background-color: black;
+    color: rgb(248, 182, 213);
+    font-family: 'Courier New', Courier, monospace;
+    /* font-family: "fantasy", copperplate; */
+    font-weight: 900;
+  }
+
+header {
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+    /* border: 5px solid rgb(248, 182, 213); */
+    /* outline: 5px solid rgb(248, 182, 213); */
+}
+
+section {
+    font-size: 24px;
+}
+
+
+#img {
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+.p {
+    text-align: center;
+}
+
+
+ul {
+    text-align: center;
+    padding-left: 0;
+}
+
+
+ul li {
+    list-style-position: inside;
+ }
+
+
+/* 
+
+ul  {
+  padding-left: 0;
+}
+ul li {
+   list-style-position: inside;
+}
+
+*/
+
+
+a {
+    display: block;
+    text-align: center;
+} 
+
+
